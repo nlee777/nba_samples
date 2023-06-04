@@ -1,0 +1,61 @@
+event_away,point_away,point_home,event_home,game_id,play_id,periodTime,period,homePoints,awayPoints
+Start of 1st quarter,,,,1,1,720,1,0,0
+Jump ball: H. Olajuwon vs. O. Polynice (C. Williamson gains possession),,,,1,2,720,1,0,0
+Turnover by C. Williamson (traveling),,,,1,3,709,1,0,0
+,,,H. Olajuwon misses 2-pt jump shot from 12 ft,1,4,687,1,0,0
+,,,Offensive rebound by C. Drexler,1,5,683,1,0,0
+,,,C. Drexler misses 2-pt layup,1,6,683,1,0,0
+,,,Offensive rebound by H. Olajuwon,1,7,682,1,0,0
+,,2.0,M. Elie makes 2-pt jump shot from 10 ft (assist by H. Olajuwon),1,8,678,1,2,0
+M. Abdul-Rauf makes 2-pt jump shot from 9 ft,2.0,,,1,9,660,1,2,2
+,,2.0,M. Maloney makes 2-pt layup (assist by C. Drexler),1,10,644,1,4,2
+C. Williamson misses 2-pt jump shot from 13 ft,,,,1,11,627,1,4,2
+Offensive rebound by O. Polynice,,,,1,12,626,1,4,2
+C. Williamson makes 2-pt layup (assist by O. Polynice),2.0,,,1,13,621,1,4,4
+,,,M. Elie misses 3-pt jump shot from 23 ft,1,14,610,1,4,4
+Defensive rebound by C. Williamson,,,,1,15,609,1,4,4
+C. Williamson makes 2-pt jump shot from 7 ft (assist by M. Richmond),2.0,,,1,16,598,1,4,6
+,,,M. Elie misses 2-pt jump shot from 9 ft,1,17,583,1,4,6
+Defensive rebound by O. Polynice,,,,1,18,582,1,4,6
+M. Abdul-Rauf misses 3-pt jump shot from 23 ft,,,,1,19,575,1,4,6
+,,,Defensive rebound by K. Willis,1,20,573,1,4,6
+,,3.0,M. Elie makes 3-pt jump shot from 22 ft (assist by C. Drexler),1,21,558,1,7,6
+B. Grant misses 2-pt layup,,,,1,22,539,1,7,6
+Offensive rebound by Team,,,,1,23,538,1,7,6
+M. Richmond misses 3-pt jump shot from 23 ft,,,,1,24,529,1,7,6
+,,,Defensive rebound by C. Drexler,1,25,528,1,7,6
+,,,K. Willis misses 2-pt jump shot from 10 ft,1,26,518,1,7,6
+Defensive rebound by M. Richmond,,,,1,27,517,1,7,6
+C. Williamson misses 2-pt layup,,,,1,28,504,1,7,6
+,,,Defensive rebound by H. Olajuwon,1,29,503,1,7,6
+Violation by O. Polynice (double lane),,,,1,30,495,1,7,6
+,,,K. Willis misses 2-pt layup (block by M. Richmond),1,31,488,1,7,6
+,,,Offensive rebound by H. Olajuwon,1,32,485,1,7,6
+,,,H. Olajuwon misses 2-pt jump shot from 8 ft,1,33,485,1,7,6
+Defensive rebound by M. Richmond,,,,1,34,484,1,7,6
+Turnover by O. Polynice (traveling),,,,1,35,478,1,7,6
+,,,Turnover by C. Drexler (bad pass),1,36,467,1,7,6
+B. Grant makes 2-pt jump shot from 17 ft (assist by C. Williamson),2.0,,,1,37,448,1,7,8
+,,,Personal foul by B. Grant,1,38,431,1,7,8
+,,2.0,C. Drexler makes 2-pt jump shot from 19 ft,1,39,423,1,9,8
+B. Grant misses 2-pt jump shot from 16 ft,,,,1,40,407,1,9,8
+,,,Defensive rebound by H. Olajuwon,1,41,406,1,9,8
+,,,Shooting foul by B. Grant,1,42,395,1,9,8
+,,,Houston full timeout,1,43,395,1,9,8
+M. Smith enters the game for B. Grant,,,,1,44,395,1,9,8
+,,1.0,K. Willis makes free throw 1 of 2,1,45,395,1,10,8
+,,1.0,K. Willis makes free throw 2 of 2,1,46,395,1,11,8
+M. Richmond makes 2-pt layup (assist by C. Williamson),2.0,,,1,47,380,1,11,10
+Shooting foul by H. Olajuwon,,,,1,48,380,1,11,10
+M. Richmond makes free throw 1 of 1,1.0,,,1,49,380,1,11,11
+,,3.0,M. Maloney makes 3-pt jump shot from 23 ft (assist by C. Drexler),1,50,367,1,14,11
+,,,Violation by Team (def goaltending),1,51,348,1,14,11
+M. Abdul-Rauf makes 2-pt jump shot from 9 ft (assist by O. Polynice),2.0,,,1,52,330,1,14,13
+,,,C. Drexler misses 2-pt jump shot from 20 ft,1,53,317,1,14,13
+Defensive rebound by M. Smith,,,,1,54,315,1,14,13
+M. Richmond makes 2-pt jump shot from 10 ft,2.0,,,1,55,308,1,14,15
+,,2.0,H. Olajuwon makes 2-pt hook shot from 6 ft (assist by M. Maloney),1,56,296,1,16,15
+O. Polynice misses 2-pt jump shot from 9 ft,,,,1,57,281,1,16,15
+,,,Defensive rebound by K. Willis,1,58,280,1,16,15
+,,,C. Drexler misses 2-pt jump shot from 20 ft,1,59,274,1,16,15
+,,,Offensive rebound by M. Elie,1,60,273,1,16,15
